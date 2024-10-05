@@ -11,8 +11,8 @@ Please note that EPH Controls may break functionality at any time.
 ## Safety Warnings
 
 1. This integration communicates with the EPH Ember platform through unofficial REST API calls that can be broken or shut down at any time.
-2. Automations are executed remotely and can be buggy.
-3. Status updates are similarly fetched remotely and are not realtime
+2. Automations are executed remotely and are not guaranteed.
+3. Status updates are similarly fetched remotely and are not realtime.
 4. This code may be buggy and amateurish.
 
 You should use the EPH Control's official Ember application for notifications and configuration of your system.
