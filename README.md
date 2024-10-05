@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/greywold/ephember/blob/main/eph_ember.png" width="125"></a>
+<p align="center"><img src="https://github.com/greywold/ephcontrols/blob/main/eph_ember.png" width="125"></a>
 <h1 align="center">EPH Controls for Home Assistant</h1>
 <p align="center">This is an unofficial project that is not affiliated with EPH Controls</p>
 <br />
