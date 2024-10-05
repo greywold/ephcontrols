@@ -1,0 +1,5 @@
+{
+    "homeassistant": "2022.12.0",
+    "name": "ephcontrols",
+    "render_readme": true
+}
