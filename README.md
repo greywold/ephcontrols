@@ -15,4 +15,4 @@ Please note that EPH Controls may break functionality at any time.
 3. Status updates are similarly fetched remotely and are not realtime.
 4. This code may be buggy and amateurish.
 
-You should use the EPH Control's official Ember application for notifications and configuration of your system.
+You should use the EPH Control's official Ember application for reliable notifications and safe configuration of your system.
